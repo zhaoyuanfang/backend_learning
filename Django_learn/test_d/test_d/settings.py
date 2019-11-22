@@ -25,12 +25,13 @@ SECRET_KEY = 'eb@j&f#%3zba+=m@q!hyocbysxfa8ec=u+kl=&-!3-klowq_dg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
 
 INSTALLED_APPS = [
+    'app.apps.AppConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
