@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="108server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="45server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="testing139">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
