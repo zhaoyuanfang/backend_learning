@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Django_learn.iml" filepath="$PROJECT_DIR$/.idea/Django_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Flask_learn/.idea/Flask_learn.iml" filepath="$PROJECT_DIR$/../Flask_learn/.idea/Flask_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Tornado_learn/.idea/Tornado_learn.iml" filepath="$PROJECT_DIR$/../Tornado_learn/.idea/Tornado_learn.iml" />
     </modules>
   </component>
