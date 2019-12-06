@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Django_learn.iml" filepath="$PROJECT_DIR$/.idea/Django_learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Flask_learn/.idea/Flask_learn.iml" filepath="$PROJECT_DIR$/../Flask_learn/.idea/Flask_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TWebChat/.idea/TWebChat.iml" filepath="$PROJECT_DIR$/../TWebChat/.idea/TWebChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Tornado_learn/.idea/Tornado_learn.iml" filepath="$PROJECT_DIR$/../Tornado_learn/.idea/Tornado_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Twisted_learn/.idea/Twisted_learn.iml" filepath="$PROJECT_DIR$/../Twisted_learn/.idea/Twisted_learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tmitter/.idea/tmitter.iml" filepath="$PROJECT_DIR$/../tmitter/.idea/tmitter.iml" />
     </modules>
   </component>
 </project>
