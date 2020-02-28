@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="Twisted_learn" />
     <orderEntry type="module" module-name="tmitter" />
     <orderEntry type="module" module-name="TWebChat" />
+    <orderEntry type="module" module-name="xuemc" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />

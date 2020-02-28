@@ -5,7 +5,7 @@
       <paths name="108server">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$/../TWebChat" web="/" />
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
@@ -13,7 +13,7 @@
       <paths name="139server">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$/../TWebChat" web="/" />
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
@@ -21,7 +21,7 @@
       <paths name="139server-yuanfang">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$/../TWebChat" web="/" />
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
@@ -29,7 +29,7 @@
       <paths name="45server">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$/../Tornado_learn" web="/" />
+            <mapping local="$PROJECT_DIR$/../TWebChat" web="/" />
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>

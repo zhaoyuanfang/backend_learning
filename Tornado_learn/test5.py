@@ -9,13 +9,19 @@ import tornado.web
 
 
 class MainHandler(tornado.web.RequestHandler):
-    def get(self):
-        self.write('Hello Tornado')
+    def get(self, appname):
+        self.write('Hello Tornado' + '\t' + appname)
+
+
+class IndexHandler(tornado.web.RequestHandler):
+    def get(self, month, year):
+        self.write('日期:%s年%s月' % (year, month))
 
 
 def make_app():
     return tornado.web.Application([
-        (r'/', MainHandler),
+        (r'/index/(?P<appname>[\d|a-z]+)', MainHandler),
+        (r"/index/(?P<year>\d{4})/(?P<month>\d{2})/", IndexHandler),
     ], autoreload=True)
 
 
